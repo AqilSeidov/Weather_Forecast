@@ -13,3 +13,10 @@ Lib List:
 4 --> flatlaf.jar(to design UI)
 
 ![image](https://github.com/user-attachments/assets/57e6be97-074f-4fd9-bea2-fdf4fd009a22)
+
+
+I have used OpenWeatherMap API in my code. You have to create an account on that site to get your own API key. After getting your API key add the key here...
+
+![image](https://github.com/user-attachments/assets/6c79020a-01af-4662-a5ea-9ac0a0929dee)
+
+
