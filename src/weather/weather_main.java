@@ -171,7 +171,7 @@ public class weather_main extends javax.swing.JFrame {
 
     private void fetchWeatherData(String city) {
         try {
-            String urlString = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=ee6bfe3e54c2e8ab41fe59e1f856cc52&units=metric";
+            String urlString = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid="+"&units=metric";
             URL url = new URL(urlString);
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
             conn.setRequestMethod("GET");
